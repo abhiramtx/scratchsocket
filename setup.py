@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="scratchsocket",
-    url="none",
-    version="0.3.0",
+    url="https://github.com/abhiramtx/scratchsocket",
+    version="0.3.1",
     author="Abhiram V",
     license="MIT",
     description="Establish cloud connections with scratch.mit.edu!",
