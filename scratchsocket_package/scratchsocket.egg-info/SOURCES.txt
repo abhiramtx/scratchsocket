@@ -1,0 +1,7 @@
+README.md
+setup.py
+scratchsocket.egg-info/PKG-INFO
+scratchsocket.egg-info/SOURCES.txt
+scratchsocket.egg-info/dependency_links.txt
+scratchsocket.egg-info/requires.txt
+scratchsocket.egg-info/top_level.txt
