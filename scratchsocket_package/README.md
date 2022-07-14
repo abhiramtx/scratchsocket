@@ -6,6 +6,11 @@
 
 <strong> Package created by: </strong> *Abhiram V*
 
+<strong>Credits:</strong>
+
+- @TimMcCool on scratch.mit.edu
+- @TheCloudDev on scratch.mit.edu
+
 # Installation
 To install the package, run this command in your command prompt / shell:
 ```
