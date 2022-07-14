@@ -1,7 +1,0 @@
-README.md
-pyproject.toml
-src/scratchsocket/__init__.py
-src/scratchsocket.egg-info/PKG-INFO
-src/scratchsocket.egg-info/SOURCES.txt
-src/scratchsocket.egg-info/dependency_links.txt
-src/scratchsocket.egg-info/top_level.txt
