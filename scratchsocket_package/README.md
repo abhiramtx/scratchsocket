@@ -4,7 +4,7 @@
 <strong>You need to have the coding language, Python, installed on your computer to use this library.</strong>
 *Download Python here if you don't have it: https://www.python.org/downloads/*
 
-<strong> Package created by: </strong> *Abhiram V*
+<strong> Package created by: </strong> *Abhiram*
 
 <strong>Credits:</strong>
 
