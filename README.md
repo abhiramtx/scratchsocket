@@ -33,13 +33,13 @@ If you are using a desktop IDE, then you can log in regularly using the "scratch
 ## SCRATCH SESSION LOGIN
 ```python
 import scratchsocket
-socket = scratchsession("YOUR_SESSION_ID", username="USERNAME")
+socket = scratchsocket.scratchsession("YOUR_SESSION_ID", username="USERNAME")
 client = socket.connect("PROJECTID")
 ```
 ## SCRATCH REGULAR LOGIN
 ```python
 import scratchsocket
-socket = scratchlogin("USERNAME", "PASSWORD")
+socket = scratchsocket.scratchlogin("USERNAME", "PASSWORD")
 client = soccket.connect("PROJECTID")
 ```
 
