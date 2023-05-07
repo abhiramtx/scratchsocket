@@ -40,7 +40,7 @@ client = socket.connect("PROJECTID")
 ```python
 import scratchsocket
 socket = scratchsocket.scratchlogin("USERNAME", "PASSWORD")
-client = soccket.connect("PROJECTID")
+client = socket.connect("PROJECTID")
 ```
 
 The client portion of the code is what connects the python server with your project. For more information on the client section, check the "Extra addons" section.
