@@ -48,7 +48,7 @@ The client portion of the code is what connects the python server with your proj
 # Usage
 <strong>Add the scratchsocket asset to your scratch project:</strong>
 
-Download this project file (.sb3) to your computer: <a href="https://drive.google.com/uc?export=download&id=1CEM6z6DtCYUKSkTTOK-lLFlXunKJYp31" download="https://replit.com/@abhiramtx/ScratchSocket#scratchsocket_asset_v2.sb3">scratchsocket_asset.sb3</a>
+Download this project file (.sb3) to your computer: <a href="https://drive.google.com/uc?export=download&id=1FCdcvsg5s2uaWVTmtsoT11WiUu-ogzuU" download="https://replit.com/@abhiramtx/ScratchSocket#scratchsocket_asset_v2.sb3">scratchsocket_asset.sb3</a>
 
 Once the file is downloaded, go to the scratch website, and make a new project. Then upload the project file (scratchsocket_asset.sb3) into the scratch project.
 
