@@ -717,7 +717,10 @@ class scratchsession:
               self._respond(request_id, outp, 220)
               self.last_timestamp = activity['timestamp']
           self.last_data = data
-          
+
+##########################################
+# Sending back a large packet of data to test :)
+##########################################
 scratch = scratchlogin("Air_heads", "364890#1")
 client = scratch.connect("868801952")
 
