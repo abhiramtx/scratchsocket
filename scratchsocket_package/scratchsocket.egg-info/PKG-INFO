@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: scratchsocket
+Version: 0.1.3
+Summary: Establish simple cloud connections with scratch.mit.edu!
+Home-page: https://github.com/abhiramtx/scratchsocket
+Author: Abhiram V
+Author-email: abhiram.tx@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+Establish simple cloud connections with scratch.mit.edu! Complete documentation: https://github.com/abhiramtx/scratchsocket
