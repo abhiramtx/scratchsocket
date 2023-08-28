@@ -721,7 +721,7 @@ class scratchsession:
 ##########################################
 # Sending back a large packet of data to test :)
 ##########################################
-scratch = scratchlogin("Air_heads", "364890#1")
+scratch = scratchlogin("Air_heads", "nolol")
 client = scratch.connect("868801952")
 
 @client.request
